@@ -3,8 +3,8 @@ My 3D models
 
 | Model Name | Image |
 |------------|-------|
-| Ściągacz | ![](fusion/sciagacz.png) |
-| Organizer | ![](fusion/organizer.png) |
-| Wahacz | ![](inventor/wahacz.png) |
-| Zwrotnica | ![](inventor/zwrotnica.png) |
+| Bearing puller | ![](fusion/sciagacz.png) |
+| Desk organizer | ![](fusion/organizer.png) |
+| Control arm | ![](inventor/wahacz.png) |
+| Steering Knuckle | ![](inventor/zwrotnica.png) |
 
