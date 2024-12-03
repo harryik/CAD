@@ -1,8 +1,8 @@
 # CAD
 My 3D models
 
-| Model Name | Image |
-|------------|-------|
+| Model Name | Image | STL File |
+|------------|-------|----------|
 | Bearing puller | ![](fusion/sciagacz.png) |
 | Desk organizer | ![](fusion/organizer.png) |
 | Control arm | ![](inventor/wahacz.png) |
